@@ -386,4 +386,3 @@ dependencies:
       - trame-vega==2.1.1
       - trame-vtk==2.8.15
       - trame-vuetify==2.9.0
-prefix: /home/helena/anaconda3/envs/atlas_env
